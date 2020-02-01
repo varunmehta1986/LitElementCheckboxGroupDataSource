@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "@vaadin/vaadin-checkbox": "^2.2.12",
+        "lit-element": "^2.2.1"
+    }
+}
